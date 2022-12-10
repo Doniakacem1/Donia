@@ -15,11 +15,7 @@
 - Age: 24 Years
 - University: ESPRIT (Ecole Sup Privée d'Ingénierie et de Technologies)
 
-<div>
-  <a href="https://github.com/Doniakacem1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=donia&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donia&layout=compact&langs_count=16&theme=vue-dark"/>
-</div>
+
   
 ###
   
